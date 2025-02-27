@@ -7,10 +7,12 @@ This project presents an interactive Car Sales Dashboard developed using Power B
 This project presents an interactive **Car Sales Dashboard** developed using **Power BI**. The dashboard provides a comprehensive analysis of car sales, including key performance indicators (KPIs), sales trends, regional performance, and company-wise sales data. It is divided into two sections:
 
 1. **Overview Page** – High-level insights and KPIs on car sales.
+   
    ![Screenshot 2025-02-27 133820](https://github.com/user-attachments/assets/ee198d66-1d6c-4fa4-a819-9ef877138cfe)
 
  
 2. **Details Page** – Granular data for deeper analysis.
+   
    ![Screenshot 2025-02-27 133901](https://github.com/user-attachments/assets/9b6c69c2-0610-42f4-9b1a-bbf78703ad38)
 
    
